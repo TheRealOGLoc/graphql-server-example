@@ -84,3 +84,5 @@ const {url} = await startStandaloneServer(server, {
 })
 
 console.log( "server ready at port", 4000)
+
+// use nodemon index.js to start the server
